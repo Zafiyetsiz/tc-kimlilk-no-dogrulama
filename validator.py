@@ -1,14 +1,14 @@
 #################################################
-Language :Turkish 
+#Language :Turkish 
   
-Turkey ID(identification) number validator
+#Turkey ID(identification) number validator
 
-The simplest and the easiest way for validator
+#The simplest and the easiest way for validator
 
-Contact me  on ;
+#Contact me  on ;
 
-Telegram  : Zafiyetsiz0
-Instagram : Zafiyetsiz
+#Telegram  : Zafiyetsiz0
+#Instagram : Zafiyetsiz
 
 #################################################
 
