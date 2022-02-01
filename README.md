@@ -5,7 +5,12 @@ Bu yazılım  TC kimlik numarasının geçerli veya geçersiz olduğunu doğrula
 
 Tc kimlik numarasının kendi doğrulama özelliği ile tasarlanmıştır 
 
-KULLANIM SORUMLULUĞU KİŞİYE AİTTİR
+NOT : KULLANIM SORUMLULUĞU KİŞİYE AİTTİR
 
 -Zafiyetsiz
 
+# Nasıl kullanılır ?
+
+1 -  validator.py dosyasındaki Python kodunu kopyalayın
+
+2- Online Python editöründe veya kendi editörünüzde  kullanabilirsimiz
