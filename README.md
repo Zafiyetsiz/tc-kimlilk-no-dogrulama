@@ -13,4 +13,4 @@ NOT : KULLANIM SORUMLULUĞU KİŞİYE AİTTİR
 
 1 -  validator.py dosyasındaki Python kodunu kopyalayın
 
-2- Online Python editöründe veya kendi editörünüzde  kullanabilirsimiz
+2 -  Kendi Python editörünüze kodu yapıştırın ve çalıştırın
