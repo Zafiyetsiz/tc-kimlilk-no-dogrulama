@@ -1,4 +1,7 @@
 # tc-kimlilk-no-dogrulama
+
+PROJECT 2 : VALIDATOR
+
 Şimdiye kadarki en basit ve en kolay kimlik numarası doğrulayıcı 
 
 Bu yazılım  TC kimlik numarasının geçerli veya geçersiz olduğunu doğrulaması için tasarlanmıştır 
